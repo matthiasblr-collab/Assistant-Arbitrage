@@ -1,0 +1,25 @@
+# Arduino
+*.o
+*.a
+*.so
+build/
+dist/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.exe
+
+# Éditeurs
+*.swp
+*.swo
+*~
+
+# IDE
+*.elf
